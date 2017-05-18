@@ -1,0 +1,18 @@
+body {
+  background: url('https://68.media.tumblr.com/96b6ba2ec24fb0b880aaa6e13b9e1c6d/tumblr_o9rnslYoPL1ruzjxno1_500.gif') !important;
+}
+ 
+#masthead,
+#primary {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+  background-color: #fff;
+  padding: 20px !important;
+}
+#masthead {
+  background: none;
+}
+#masthead img, #primary img {
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
