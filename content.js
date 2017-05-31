@@ -1,5 +1,5 @@
 $(document).ready(function() {
-     $('#masthead').click(function() {
-            $(this).effect('bounce', {times: 3}, 500);
+    $('div').hover(function(){
+        $(this).addClass('red');
     });
 });
