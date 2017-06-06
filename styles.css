@@ -2,10 +2,3 @@ body {
   background: url('http://i.imgur.com/AhFHKDr.gif') !important;
 }
  
- 
-div {
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
-    background-color: darkred;
-}
