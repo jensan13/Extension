@@ -6,7 +6,6 @@
   "description": "Dragon Ball Super Extension lelelel",
  
   "content_scripts": [{
-    "html":["index.html"],
     "css": ["styles.css"],
     "js": ["content.js"],
     "matches": ["<all_urls>"]
